@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Family</title>
+	<link rel="stylesheet" href="styles.css">
+	
+
+</head>
+<body>
+	<!--begin nav panel-->
+		<div id="wrap">
+		  <ul class="navbar">
+			 <li><a href="index.html">Home</a></li>
+			 <li><a href="bio.html">About Me</a>
+				<ul>
+				   <li><a href="bio.html">Bio</a></li>
+				   <li><a href="pictures.html">Pictures</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="schedules.html">Class Schedules</a>
+				<ul>
+				   <li><a href="#">2015</a></li>
+				   <li><a href="#">2014</a></li>
+				   <li><a href="#">2013</a></li>
+				   <li><a href="#">2012</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="index.html">Useful Resources</a>
+				<ul>
+				   <li><a href="https://validator.w3.org">HTML Validation</a></li>
+				   <li><a href="http://www.w3schools.com/tags/default.asp">HTML Code Help</a></li>
+				   <li><a href="https://jigsaw.w3.org/css-validator/#validate_by_upload">CSS Validation</a></li>
+				   <li><a href="http://www.w3schools.com/css/">CSS Code Help</a></li>
+				   <li><a href="https://www.dropbox.com/">DropBox</a></li>
+				   <li><a href="https://github.com">GitHub</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="mailto:mitch.wilson94@gmail.com?Subject=Website">Contact Me</a>
+				<ul>
+				   <li><a href="mailto:mitch.wilson94@gmail.com?Subject=Website">Email</a></li>
+				   <li><a href="contact.html">Social Media</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="">Quick Links</a>
+				<ul>
+				   <li><a href="https://www.google.com">Google</a></li>
+				   <li><a href="http://www.cs.uga.edu">UGA Computer Science</a></li>
+				</ul>         
+			 </li>
+		  </ul>
+</div>
+				<!--end of navigation panel-->
+
+<p>
+<br>
+<br>
+</p>
+<p class="caps">Pictures coming soon!</p>
+
+
+</body>
+</html>				
